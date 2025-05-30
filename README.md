@@ -153,7 +153,7 @@ def extract_text_from_image(image_bytes):
 ## 🚀 배포 및 운영
 
 - **플랫폼**: Streamlit Cloud
-- **도메인**: [배포 URL 추가 예정]
+- **도메인**: https://planeat-vsdh5tre5diksg39je685i.streamlit.app/
 - **모니터링**: Streamlit 내장 분석 도구
 
 ## 🔮 향후 개발 계획
