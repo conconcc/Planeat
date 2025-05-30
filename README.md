@@ -147,7 +147,7 @@ def extract_text_from_image(image_bytes):
 | 역할 | 이름 | GitHub | 담당 업무 |
 |------|------|--------|-----------|
 | 🎨 **Design & Backend Lead** | 정해찬 | [@gocks77777](https://github.com/gocks77777) | 페이지 디자인, 로고 제작, 이미지 및 데이터 입출력 기능 구현, 프롬프트 엔지니어링 |
-| 🔧 **Frontend & AI Lead** | 이승준 | [@conconcc](https://github.com/conconcc) | 프론트엔드 구현, 이미지 인식 및 추출 기능 구현, 프롬프트 엔지니어링, API 연동, 배포 관리 |
+| 🔧 **Frontend & AI Lead** | 이승준 | [@conconcc](https://github.com/conconcc) | 프론트엔드 구현, 이미지 인식 및 추출 기능 구현, 프롬프트 엔지니어링, Google AI Studio API 연동, 배포 관리 |
 
 ## 🚀 배포 및 운영
 
